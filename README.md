@@ -1,1 +1,2 @@
-# Newton-was-smart
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
